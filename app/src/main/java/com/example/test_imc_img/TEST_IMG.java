@@ -37,7 +37,7 @@ public class TEST_IMG extends AppCompatActivity {
         sex.setText("Vous etes "+ Sexe);
         pd.setText("Votre poids est de "+pd1);
         tl.setText("Votre taille est"+tl1);
-        img.setText("Votre IMC = "+String.format("%.02f",img1));
+        img.setText("Votre IMG = "+String.format("%.02f",img1));
         age.setText("Votre Age est "+age1+"ans");
     }
 }
